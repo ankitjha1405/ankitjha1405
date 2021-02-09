@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on any projects related to Webd
 - 🤔 I’m looking for someone who can mentor me
 - 💬 Ask me about anything if i know i will answer if i don't know i will learn from you
-- ⚡ Fun fact: I love you 3000(RDJ is ❤)
+- ⚡ Fun fact: I love you 3000 (RDJ is ❤)
 
 <h2>Checkout My stats 👇</h2>
 
