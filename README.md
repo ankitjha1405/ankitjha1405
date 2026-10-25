@@ -21,7 +21,7 @@ Lately I build and ship **AI-powered products** end to end: research, product sp
 
 - **Now:** building [Hustlkr](https://hustlkr.in/), an AI operating system for adult life (money, career, goals)
 - **Focus:** product management, product strategy, UX, AI agents, LLM apps
-- **Background:** Nextleap PM Fellow (Top Fellow badge), Product School challenge, product intern at University Living
+- **Background:** Nextleap PM Fellow (Top Fellow badge), Product School challenge, building FOXO.Club
 - **Open to:** product roles, early-stage startups and collaborations on AI products
 
 ## Featured projects
@@ -32,17 +32,6 @@ Lately I build and ship **AI-powered products** end to end: research, product sp
 | **[PMForces](https://github.com/ankitjha1405/pmforces)** · [live](https://pmforces.vercel.app/) | AI-powered PM interview practice with Codeforces-style ratings and graded feedback | TypeScript, Next.js, Claude API |
 | **[Agentic Office](https://github.com/ankitjha1405/agentic-office)** | A software company of 55 AI agents run from Claude Code: Chief of Staff, 9 departments, approval gates, optional Jira + Confluence sync | Python, Claude Code |
 | **[Product Quest](https://product-quest-two.vercel.app)** | Practice-first learning platform for early-career product managers | TypeScript, Next.js |
-| **[Loan24 Onboarding](https://github.com/ankitjha1405/loan24-onboarding)** | Mobile-first lending onboarding prototype: identity, documents, e-signature and premises checks with human handover | HTML, CSS, JavaScript |
-| **[GitAvatar](https://github.com/ankitjha1405/gitavatar)** | Turn any GitHub avatar into ASCII art for your profile README | HTML, JavaScript |
-
-## Product work
-
-- **University Living:** built acquisition hooks across app and web that reached **50,000+ users** and lifted lead flow by **3%**; shipped an internal CMS that cut property-lead sourcing time by **20%**.
-- **Amazon Prime Video case study:** tackled decision fatigue in movie discovery (Nextleap graduation project, Top Fellow).
-- **Swiggy Minis teardown:** product strategy to lift creator and customer adoption (Product School challenge).
-- **SaveMore:** MVP for a first-time earner's budgeting app.
-
-Full case studies on my [portfolio](https://ankitjha1405.vercel.app/).
 
 ## Tech stack
 
